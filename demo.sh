@@ -1,0 +1,76 @@
+#!/bin/bash
+#!/usr/bin/expect -f
+
+#pick which operation
+# 1 = auto docking
+# 2 = gofoward
+# 3 = create halt.x file
+# 4 = goCircular
+# 5 = going in circles and avoiding obstacles
+if [ $2 == auto_docking ] || [ $2 == 1 ]
+then
+    op="kobuki_auto_docking.x"
+elif [ $2 == goforward ] || [ $2 == 2 ]
+then
+    op="goforward.x"
+elif [ $2 == halt ] || [ $2 == 3 ]
+then
+    op="halt.x"
+elif [ $2 == goCircular ] || [ $2 == 4 ]
+then
+    op="goCircular.x"
+elif [ $2 == goForwardAvoid ] || [ $2 == 5 ]
+then
+    op="goForwardAvoid.x"
+fi
+
+PATH="$PATH:/opt/ros/indigo/bin/roslaunch";
+
+###########################################
+# touch halt.x files to ensure obedience
+###########################################
+#ssh donatello@192.168.0.102 touch Montgomery/halt.x
+ssh michelangelo@192.168.0.101 touch Montgomery/halt.x
+ssh leonardo@192.168.0.103 touch Montgomery/halt.x
+ssh raphael@192.168.0.105 touch Montgomery/halt.x
+
+###########################################
+# touch files (op.x) that need to be used
+# rm halt.x files
+###########################################
+#Donatello
+#echo export ROS_MASTER_URI=http://192.168.0.102:11311 >> ~/.bashrc
+#ssh donatello@192.168.0.102 touch Montgomery/$op
+#ssh donatello@192.168.0.102 rm Montgomery/halt.x
+#Michelangelo
+echo export ROS_MASTER_URI=http://192.168.0.101:11311 >> ~/.bashrc
+ssh michelangelo@192.168.0.101 touch Montgomery/$op
+ssh michelangelo@192.168.0.101 rm Montgomery/halt.x
+#Leonardo
+echo export ROS_MASTER_URI=http://192.168.0.103:11311 >> ~/.bashrc
+ssh leonardo@192.168.0.103 touch Montgomery/$op
+ssh leonardo@192.168.0.103 rm Montgomery/halt.x
+#Raphael
+echo export ROS_MASTER_URI=http://192.168.0.105:11311 >> ~/.bashrc
+ssh raphael@192.168.0.105 touch Montgomery/$op
+ssh raphael@192.168.0.105 rm Montgomery/halt.x
+
+###########################################
+# Set up sockets before clients are init
+###########################################
+python demoServer.py 
+
+###########################################
+# ask user to quit
+###########################################
+printf "Enter any key to quit: "
+read response
+
+###########################################
+# kill file (op.x) keeping processes running
+###########################################
+#ssh donatello@192.168.0.102 rm Montgomery/$op
+ssh michelangelo@192.168.0.101 rm Montgomery/$op
+ssh leonardo@192.168.0.103 rm Montgomery/$op 
+ssh raphael@192.168.0.105 rm Montgomery/$op 
+    

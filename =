@@ -1,0 +1,579 @@
+Script started on Wed 08 Nov 2017 09:09:37 PM EST
+kevin@kevin-Precision-M4800:~$: command not found
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ lssudo apt-get install emacs[6Pemacs23install emacsls[K[K./teleop_prep.sh
+./teleop_prep.sh: line 4: [: ==: unary operator expected
+bad
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh donatello
+Hello World
+donatello@192.168.0.102's password: 
+Permission denied, please try again.
+donatello@192.168.0.102's password: 
+
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh donatello[K donatello
+Hello World
+donatello@192.168.0.102's password: 
+Permission denied, please try again.
+donatello@192.168.0.102's password: 
+
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh donatello[K donatello[K./teleop_prep.sh donatello
+donatello@192.168.0.102's password: 
+
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh donatello[K[K[K[K[K[K[K[K[Kr
+./teleop_prep.sh: line 4: [: missing `]'
+./teleop_prep.sh: line 7: [: missing `]'
+./teleop_prep.sh: line 10: [: missing `]'
+./teleop_prep.sh: line 13: [: missing `]'
+./teleop_prep.sh: line 13: [: missing `]'
+ERROR: unknown Turtle Bot
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh r
+./teleop_prep.sh: line 4: [: missing `]'
+./teleop_prep.sh: line 7: [: missing `]'
+./teleop_prep.sh: line 10: [: missing `]'
+./teleop_prep.sh: line 13: [: missing `]'
+./teleop_prep.sh: line 13: [: missing `]'
+ERROR: unknown Turtle Bot
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ^[[A
+[A: command not found
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ 
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ 
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ 
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ 
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ 
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ^[[A./teleop_prep.sh r
+./teleop_prep.sh: line 4: [: missing `]'
+./teleop_prep.sh: line 7: [: missing `]'
+./teleop_prep.sh: line 10: [: missing `]'
+./teleop_prep.sh: line 13: [: missing `]'
+./teleop_prep.sh: line 13: [: missing `]'
+ERROR: unknown Turtle Bot
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh r
+raphael@192.168.0.105's password: 
+
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh r
+raphael@192.168.0.105's password: 
+
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh r[Kd
+donatello@192.168.0.102's password: 
+Welcome to Ubuntu 14.04.4 LTS (GNU/Linux 4.2.0-27-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+854 packages can be updated.
+0 updates are security updates.
+
+Last login: Wed Nov  8 21:00:57 2017 from 192.168.0.100
+]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ exitgit clone https://github.com/robopeak/rplidarr_ros[A]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ rqt_remocon[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "export TURTLEBOT_3D_SENSOR=asus_xtion_ppro" >> .bashrc[A]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ [C[C[C[C[C[18P$TURTLEBOT_3D_SENSOR 
+[K[A[C[C[C[C[C[C[C[C[Csion-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh r
+raphael@192.168.0.105's password: 
+
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh r
+raphael@192.168.0.105's password: 
+
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ ./teleop_prep.sh r[Kd
+donatello@192.168.0.102's password: 
+Welcome to Ubuntu 14.04.4 LTS (GNU/Linux 4.2.0-27-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+854 packages can be updated.
+0 updates are security updates.
+
+Last login: Wed Nov  8 21:00:57 2017 from 192.168.0.100
+]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ exitgit clone https://github.com/robopeak/rplidarr_ros[A]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ rqt_remocon[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "export TURTLEBOT_3D_SENSOR=asus_xtion_ppro" >> .bashrc[A]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ [C[C[C[C[C[18P$TURTLEBOT_3D_SENSOR 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"export TURTLEBOT_3D_SENSOR=asus_xtion_ppro" >> .[A]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ [C[C[C[C[C[18P$TURTLEBOT_3D_SENSOR 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"export TURTLEBOT_3D_SENSOR=asus_xtion_ppro" >> .bashrc[A]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ [C[C[C[C[C[18P$TURTLEBOT_3D_SENSOR 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kecho "export TURTLEBOT_3D_SENSOR=asus_xtion_ppro" >> .bashrc[A]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo rosdep initrm /etc/ros/rosdep/sources.list.d/20-default..list[A]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ [28Psudo rosdep init
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt-get install python-rosdep python-wsttool ros-indigo-ros[A]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ [C[C[C[C[C[C[C[C[C[C[C[C[Cupdate[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Prqt_remoconecho $TURTLEBOT_3D_SENSORroslaunch turtlebot_bringup minimal.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cqt_remocon[Koslaunch turtlebot_bringup minimal.launch
+... logging to /home/donatello/.ros/log/b214987e-c4f6-11e7-bab7-8019347b197a/roslaunch-donatello-HP-210-G1-PC-8648.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/opt/ros/indigo/share/turtlebot_bringup/launch/minimal.launch
+[1mstarted roslaunch server http://192.168.0.102:40179/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /app_manager/auto_rapp_installation: False
+ * /app_manager/auto_start_rapp: 
+ * /app_manager/capability_server_name: 
+ * /capability_server/defaults/std_capabilities/DifferentialMobileBase: kobuki_capabiliti...
+ * /capability_server/defaults/std_capabilities/LaserSensor: turtlebot_capabil...
+ * /capability_server/defaults/std_capabilities/RGBDSensor: turtlebot_capabil...
+ * /capability_server/defaults/std_capabilities/RobotStatePublisher: turtlebot_capabil...
+ * /capability_server/defaults/turtlebot_capabilities/TurtleBotBringup: turtlebot_capabil...
+ * /capability_server/nodelet_manager_name: capability_server...
+ * /capability_server/package_whitelist: ['kobuki_capabili...
+ * /cmd_vel_mux/yaml_cfg_file: /opt/ros/indigo/s...
+ * /description: Kick-ass ROS turtle
+ * /diagnostic_aggregator/analyzers/input_ports/contains: ['Digital Input',...
+ * /diagnostic_aggregator/analyzers/input_ports/path: Input Ports
+ * /diagnostic_aggregator/analyzers/input_ports/remove_prefix: mobile_base_nodel...
+ * /diagnostic_aggregator/analyzers/input_ports/timeout: 5.0
+ * /diagnostic_aggregator/analyzers/input_ports/type: diagnostic_aggreg...
+ * /diagnostic_aggregator/analyzers/kobuki/contains: ['Watchdog', 'Mot...
+ * /diagnostic_aggregator/analyzers/kobuki/path: Kobuki
+ * /diagnostic_aggregator/analyzers/kobuki/remove_prefix: mobile_base_nodel...
+ * /diagnostic_aggregator/analyzers/kobuki/timeout: 5.0
+ * /diagnostic_aggregator/analyzers/kobuki/type: diagnostic_aggreg...
+ * /diagnostic_aggregator/analyzers/power/contains: ['Battery', 'Lapt...
+ * /diagnostic_aggregator/analyzers/power/path: Power System
+ * /diagnostic_aggregator/analyzers/power/remove_prefix: mobile_base_nodel...
+ * /diagnostic_aggregator/analyzers/power/timeout: 5.0
+ * /diagnostic_aggregator/analyzers/power/type: diagnostic_aggreg...
+ * /diagnostic_aggregator/analyzers/sensors/contains: ['Cliff Sensor', ...
+ * /diagnostic_aggregator/analyzers/sensors/path: Sensors
+ * /diagnostic_aggregator/analyzers/sensors/remove_prefix: mobile_base_nodel...
+ * /diagnostic_aggregator/analyzers/sensors/timeout: 5.0
+ * /diagnostic_aggregator/analyzers/sensors/type: diagnostic_aggreg...
+ * /diagnostic_aggregator/base_path: 
+ * /diagnostic_aggregator/pub_rate: 1.0
+ * /icon: turtlebot_bringup...
+ * /interactions/interactions: ['turtlebot_bring...
+ * /interactions/pairing: True
+ * /interactions/rosbridge_address: localhost
+ * /interactions/rosbridge_port: 9090
+ * /interactions/webserver_address: webapp.robotconce...
+ * /mobile_base/base_frame: base_footprint
+ * /mobile_base/battery_capacity: 16.5
+ * /mobile_base/battery_dangerous: 13.2
+ * /mobile_base/battery_low: 14.0
+ * /mobile_base/cmd_vel_timeout: 0.6
+ * /mobile_base/device_port: /dev/kobuki
+ * /mobile_base/odom_frame: odom
+ * /mobile_base/publish_tf: True
+ * /mobile_base/use_imu_heading: True
+ * /mobile_base/wheel_left_joint_name: wheel_left_joint
+ * /mobile_base/wheel_right_joint_name: wheel_right_joint
+ * /name: turtlebot
+ * /robot/name: turtlebot
+ * /robot/type: turtlebot
+ * /robot_description: <?xml version="1....
+ * /robot_state_publisher/publish_frequency: 5.0
+ * /rosdistro: indigo
+ * /rosversion: 1.11.16
+ * /turtlebot_laptop_battery/acpi_path: /sys/class/power_...
+ * /use_sim_time: False
+ * /zeroconf/zeroconf/services: [{'domain': 'loca...
+
+NODES
+  /zeroconf/
+    zeroconf (zeroconf_avahi/zeroconf)
+  /
+    app_manager (rocon_app_manager/rapp_manager.py)
+    bumper2pointcloud (nodelet/nodelet)
+    capability_server (capabilities/capability_server)
+    cmd_vel_mux (nodelet/nodelet)
+    diagnostic_aggregator (diagnostic_aggregator/aggregator_node)
+    interactions (rocon_interactions/interactions_manager.py)
+    master (rocon_master_info/master.py)
+    mobile_base (nodelet/nodelet)
+    mobile_base_nodelet_manager (nodelet/nodelet)
+    robot_state_publisher (robot_state_publisher/robot_state_publisher)
+    turtlebot_laptop_battery (laptop_battery_monitor/laptop_battery.py)
+
+auto-starting new master
+[1mprocess[master]: started with pid [8663][0m
+[1mROS_MASTER_URI=http://192.168.0.102:11311[0m
+]2;/opt/ros/indigo/share/turtlebot_bringup/launch/minimal.launch http://192.168.0.102:11311
+[1msetting /run_id to b214987e-c4f6-11e7-bab7-8019347b197a[0m
+[1mprocess[rosout-1]: started with pid [8676][0m
+started core service [/rosout]
+[1mprocess[robot_state_publisher-2]: started with pid [8679][0m
+[1mprocess[diagnostic_aggregator-3]: started with pid [8680][0m
+[1mprocess[mobile_base_nodelet_manager-4]: started with pid [8681][0m
+[1mprocess[mobile_base-5]: started with pid [8682][0m
+[1mprocess[cmd_vel_mux-6]: started with pid [8683][0m
+[1mprocess[bumper2pointcloud-7]: started with pid [8684][0m
+[1mprocess[turtlebot_laptop_battery-8]: started with pid [8685][0m
+[1mprocess[capability_server-9]: started with pid [8688][0m
+[1mprocess[app_manager-10]: started with pid [8689][0m
+[1mprocess[master-11]: started with pid [8692][0m
+[1mprocess[interactions-12]: started with pid [8693][0m
+[33m[WARN] [WallTime: 1510194951.896542] Battery : unable to check laptop battery info [/sys/class/power_supply/BAT0/charge_full_design || /sys/class/power_supply/BAT0/energy_full_design does not exist]
+[0m[1mprocess[zeroconf/zeroconf-13]: started with pid [8700][0m
+[1m[turtlebot_laptop_battery-8] process has finished cleanly
+log file: /home/donatello/.ros/log/b214987e-c4f6-11e7-bab7-8019347b197a/turtlebot_laptop_battery-8*.log[0m
+[0m[ INFO] [1510194953.635020627]: Zeroconf: service successfully established [turtlebot][_ros-master._tcp][11311][0m
+/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py:114: SyntaxWarning: The publisher should be created with an explicit keyword argument 'queue_size'. Please see http://wiki.ros.org/rospy/Overview/Publishers%20and%20Subscribers for more information.
+  self.pub = rospy.Publisher(self.topic, Status)
+/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py:114: SyntaxWarning: The publisher should be created with an explicit keyword argument 'queue_size'. Please see http://wiki.ros.org/rospy/Overview/Publishers%20and%20Subscribers for more information.
+  self.pub = rospy.Publisher(self.topic, Status)
+^C[zeroconf/zeroconf-13] killing on exit
+[interactions-12] killing on exit
+[master-11] killing on exit
+[app_manager-10] killing on exit
+[capability_server-9] killing on exit
+[bumper2pointcloud-7] killing on exit
+[cmd_vel_mux-6] killing on exit
+[mobile_base-5] killing on exit
+[mobile_base_nodelet_manager-4] killing on exit
+[diagnostic_aggregator-3] killing on exit
+[robot_state_publisher-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ exit
+logout
+Connection to 192.168.0.102 closed.
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ exho ex[K[K[K[K[K[K[Kcd ..
+]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd Montgomery/
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ cd [K[K[Kecho export ROS_MASTER URI [K[K[K[K[K[KR_URI [K=https://192 .178[K[K68.0.101[K2:11311 >> ~./bashrc
+bash: ~./bashrc: No such file or directory
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ echo export ROS_MASTER_URI=https://192..168.0.102:11311 >> ~./bashrc[C[1P[C[C[1P~./bashrc
+bash: ~./bashrc: No such file or directory
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ cd ..
+]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd ..echo export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc
+bash: ~./bashrc: No such file or directory
+]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ echo export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc
+bash: ~./bashrc: No such file or directory
+]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ echo export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[C ~./bashrc[1@ 
+bash: ~./bashrc: No such file or directory
+]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ echo export ROS_MASTER_URI=https://192.168.0.102:111311 >> ~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho examples.desktop [K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kport ROS_m[KS[KMASTER_URI=https://192.168.0.102:111311 >> ~./bashrc
+bash: ~./bashrc: No such file or directory
+]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ echo export ROS_MASTER_URI=https://192.168.0.102:111311 >> ~./bashrc[C[C[C[C[C[2P>>~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[C[C[C[C[C >> ~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd Montgomery/[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C..[K./teleop_prep.sh dr^[[A[K./teleop_prep.sh rdonatello[Kls[Ksudo apt-get install emacs[6Pemacs23[8Pemacs k.java./teleop_prep.sh donatello[K[7@chmod +x [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kemacs teleop_prep.sh &ls[Kcd Montgomery/ls[Kmkdir Montgomeryls[Kemacs hjhj.java &sudo apt-get emacs23[6Pping 224.0.0.1g++ -o SampleClient SampleClient.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kg++ -o SampleClient SampleClient.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd '/home/kevin/Documents/MIDN Pressel Capstone/NaatNetSDK/include' [A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [13Pg++ -o SampleClient SampleClient.cpp
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcd SampleClientsampleclientg++ -o SampleClient SampleClient.c0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd ..SampleClient.exe.exe[KSampleClient.exe[1PampleClient.exesampleclient.exels[Kcd '/home/kevin/Documents/MIDN Pressel Capstone/NaatNetSDK/Samples/bin/x64'[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ pwd[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cing 192.168.0.104[10Pifconfigpconfig[2Pwhoamiping 192.168.0.104ftp[Knetstat -tupln | grep :21[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pservice vsftpd start[1Ptelnet localhost 21dpkg -l | grep -i ftpftp[Kroslaunch openni_launch openni.launchrun image_view image_view image:=/camera/rgb/immage_color[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [C[C[C[12Plaunch openni_launch openni.launch
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pssh donatello@192.168.0.102echo export ROS_MASTER_URI=http://192.168.0.102:111311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [24Pssh raphael@192.168.0.105
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=http://192.168.0.105:111311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [22Pssh donatello@192.168.0.102
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Praphael@192.168.0.105donatello@192.168.0.102echo export ROS_MASTER_URI=http://192.168.0.105:111311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [24Pssh raphael@192.168.0.105
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=http://192.168.0.105:111311 >> ~/.bashrc[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:113[1P[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2:11[1@3[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ echo export ROS_MASTER_URI=http://192.168.0.102:111311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs://192.168.0.102:11311 >> ~./bashrc[C[C[C[C[C[2P>>~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[C[C[C[C[C >> ~./bashrc[C[C[C[C[C[2P>>~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[C[C[C[C[C >> ~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C://192.168.0.102:11[1P311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [K
+[K[A[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[C[C[C[C[C >> ~./bashrc[C[C[C[C[C[2P>>~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=https://192.168.0.102:111311>>~./bashrc[C[C[C[C[C >> ~./bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C://192.168.0.102:11[1P311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=http://192.168.0.102:111311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~kevin@kevin-Precision-M4800:~$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd Montgomery/
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ cd Montgomery/echo export ROS_MASTER_URI=http://192.1168.0.102:11311 >> ~/.bashrc
+]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ echo export ROS_MASTER_URI=http://192.1168.0.102:11311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ [24Pcd Montgomery/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=http://192.1168.0.102:11311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ [24Pcd Montgomery/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho export ROS_MASTER_URI=http://192.1168.0.102:11311 >> ~/.bashrc[A]0;kevin@kevin-Precision-M4800: ~/Montgomerykevin@kevin-Precision-M4800:~/Montgomery$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./teleop_prep.sh d
+donatello@192.168.0.102's password: 
+Welcome to Ubuntu 14.04.4 LTS (GNU/Linux 4.2.0-27-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+854 packages can be updated.
+0 updates are security updates.
+
+Last login: Wed Nov  8 21:35:30 2017 from 192.168.0.100
+]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ exitroslaunch turtlebot_bringup minimal.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kroslaunch turtlebot_bringup minimal.launch
+... logging to /home/donatello/.ros/log/8def823c-c4f7-11e7-b28f-8019347b197a/roslaunch-donatello-HP-210-G1-PC-11072.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/opt/ros/indigo/share/turtlebot_bringup/launch/minimal.launch
+[1mstarted roslaunch server http://192.168.0.102:38894/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /app_manager/auto_rapp_installation: False
+ * /app_manager/auto_start_rapp: 
+ * /app_manager/capability_server_name: capability_server
+ * /app_aults/std_capabilities/DifferentialMobileBase: kobuki_capabiliti...
+ * /capability_server/defaults/std_capabilities/LaserSensor: turtlebot_capabil...
+ * /capability_server/defaults/std_capabilities/RGBDSensor: turtlebot_capabil...
+ * /capability_server/defaults/std_capabilities/RobotStatePublisher: turtlebot_capabil...
+ * /capability_server/defaults/turtlebot_capabilities/TurtleBotBringup: turtlebot_capabil...
+ * /capability_server/nodelet_manager_name: capability_server...
+ * /capability_server/package_whitelist: ['kobuki_capabili...
+ * /cmd_vel_mux/yaml_cfg_file: /opt/ros/indigo/s...
+ * /description: Kick-ass ROS turtle
+ * /diagnostic_aggregator/analyzers/input_ports/contains: ['Digital Input',...
+ * /diagnostic_aggregator/analyzers/input_ports/path: Input Ports
+ * /diagnostic_aggregator/analyzers/input_ports/remove_prefix: mobile_base_nodel...
+ * /diagnostic_aggregator/analyzers/input_ports/timeout: 5.0
+ * /diagnostic_aggregator/analyzers/input_ports/type: diagnostic_aggreg...
+ * /diagnostic_aggregator/analyzers/kobuki/contains: ['Watchdog', 'Mot...
+ * /diagnostic_aggregator/analyzers/kobuki/path: Kobuki
+ * /diagnostic_aggregator/analyzers/kobuki/remove_prefix: mobile_base_nodel...
+ * /diagnostic_aggregator/analyzers/kobuki/timeout: 5.0
+ * /diagnostic_aggregator/analyzers/kobuki/type: diagnostic_aggreg...
+ * /diagnostic_aggregator/analyzers/power/contains: ['Battery', 'Lapt...
+ * /diagnostic_aggregator/analyzers/power/path: Power System
+ * /diagnostic_aggregator/analyzers/power/remove_prefix: mobile_base_nodel...
+ * /diagnostic_aggregator/analyzers/power/timeout: 5.0
+ * /diagnostic_aggregator/analyzers/power/type: diagnostic_aggreg...
+ * /diagnostic_aggregator/analyzers/sensors/contains: ['Cliff Sensor', ...
+ * /diagnostic_aggregator/analyzers/sensors/path: Sensors
+ * /diagnostic_aggregator/analyzers/sensors/remove_prefix: mobile_base_nodel...
+ * /diagnostic_aggregator/analyzers/sensors/timeout: 5.0
+ * /diagnostic_aggregator/analyzers/sensors/type: diagnostic_aggreg...
+ * /diagnostic_aggregator/base_path: 
+ * /diagnostic_aggregator/pub_rate: 1.0
+ * /icon: turtlebot_bringup...
+ * /interactions/interactions: ['turtlebot_bring...
+ * /interactions/pairing: True
+ * /interactions/rosbridge_address: localhost
+ * /interactions/rosbridge_port: 9090
+ * /interactions/webserver_address: webapp.robotconce...
+ * /mobile_base/base_frame: base_footprint
+ * /mobile_base/battery_capacity: 16.5
+ * /mobile_base/battery_dangerous: 13.2
+ * /mobile_base/battery_low: 14.0
+ * /mobile_base/cmd_vel_timeout: 0.6
+ * /mobile_base/device_port: /dev/kobuki
+ * /mobile_base/odom_frame: odom
+ * /mobile_base/publish_tf: True
+ * /mobile_base/use_imu_heading: True
+ * /mobile_base/wheel_left_joint_name: wheel_left_joint
+ * /mobile_base/wheel_right_joint_name: wheel_right_joint
+ * /name: turtlebot
+ * /robot/name: turtlebot
+ * /robot/type: turtlebot
+ * /robot_description: <?xml version="1....
+ * /robot_state_publisher/publish_frequency: 5.0
+ * /rosdistro: indigo
+ * /rosversion: 1.11.16
+ * /turtlebot_laptop_battery/acpi_path: /sys/class/power_...
+ * /use_sim_time: False
+ * /zeroconf/zeroconf/services: [{'domain': 'loca...
+
+NODES
+  /zeroconf/
+    zeroconf (zeroconf_avahi/zeroconf)
+  /
+    app_manager (rocon_app_manager/rapp_manager.py)
+    bumper2pointcloud (nodelet/nodelet)
+    capability_server (capabilities/capability_server)
+    cmd_vel_mux (nodelet/nodelet)
+    diagnostic_aggregator (diagnostic_aggregator/aggregator_node)
+    interactions (rocon_interactions/interactions_manager.py)
+    master (rocon_master_info/master.py)
+    mobile_base (nodelet/nodelet)
+    mobile_base_nodelet_manager (nodelet/nodelet)
+    robot_state_publisher (robot_state_publisher/robot_state_publisher)
+    turtlebot_laptop_battery (laptop_battery_monitor/laptop_battery.py)
+
+auto-starting new master
+[1mprocess[master]: started with pid [11087][0m
+[1mROS_MASTER_URI=http://192.168.0.102:11311[0m
+]2;/opt/ros/indigo/share/turtlebot_bringup/launch/minimal.launch http://192.168.0.102:11311
+[1msetting /ruattery.py)
+
+auto-starting new master
+[1mprocess[master]: started with pid [11087][0m
+[1mROS_MASTER_URI=http://192.168.0.102:11311[0m
+]2;/opt/ros/indigo/share/turtlebot_bringup/launch/minimal.launch http://192.168.0.102:11311
+[1msetting /run_id to 8def823c-c4f7-11e7-b28f-8019347b197a[0m
+[1mprocess[rosout-1]: started with pid [11100][0m
+started core service [/rosout]
+[1mprocess[robot_state_publisher-2]: started with pid [11118][0m
+[1mprocess[diagnostic_aggregator-3]: started with pid [11119][0m
+[1mprocess[mobile_base_nodelet_manager-4]: started with pid [11120][0m
+[1mprocess[mobile_base-5]: started with pid [11121][0m
+[1mprocess[cmd_vel_mux-6]: started with pid [11132][0m
+[1mprocess[bumper2pointcloud-7]: started with pid [11148][0m
+[1mprocess[turtlebot_laptop_battery-8]: started with pid [11160][0m
+[1mprocess[capability_server-9]: started with pid [11163][0m
+[1mprocess[app_manager-10]: started with pid [11164][0m
+[1mprocess[master-11]: started with pid [11171][0m
+[1mprocess[interactions-12]: started with pid [11179][0m
+[1mprocess[zeroconf/zeroconf-13]: started with pid [11191][0m
+[33m[WARN] [WallTime: 1510195319.916485] Battery : unable to check laptop battery info [/sys/class/power_supply/BAT0/charge_full_design || /sys/class/power_supply/BAT0/energy_full_design does not exist]
+[0m[0m[ INFO] [1510195320.382938421]: Zeroconf: service successfully established [turtlebot][_ros-master._tcp][11311][0m
+[1m[turtlebot_laptop_battery-8] process has finished cleanly
+log file: /home/donatello/.ros/log/8def823c-c4f7-11e7-b28f-8019347b197a/turtlebot_laptop_battery-8*.log[0m
+/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py:114: SyntaxWarning: The publisher should be created with an explicit keyword argument 'queue_size'. Please see http://wiki.ros.org/rospy/Overview/Publishers%20and%20Subscribers for more information.
+  self.pub = rospy.Publisher(self.topic, Status)
+/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py:114: SyntaxWarning: The publisher should be created with an explicit keyword argument 'queue_size'. Please see http://wiki.ros.org/rospy/Overview/Publishers%20and%20Subscribers for more information.
+  self.pub = rospy.Publisher(self.topic, Status)
+^C[zeroconf/zeroconf-13] killing on exit
+[interactions-12] killing on exit
+[master-11] killing on exit
+[app_manager-10] killing on exit
+[capability_server-9] killing on exit
+[cmd_vel_mux-6] killing on exit
+[bumper2pointcloud-7] killing on exit
+[mobile_base-5] killing on exit
+[mobile_base_nodelet_manager-4] killing on exit
+[diagnostic_aggregator-3] killing on exit
+Unhandled exception in thread started by 
+sys.excepthook is missing
+lost sys.stderr
+Exception in thread Thread-107 (most likely raised during interpreter shutdown):Exception in thread Thread-22 (most likely raised during interpreter shutdown):Exception in thread Thread-106 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+
+
+Traceback (most recent call last):Traceback (most recent call last):  File "/usr/lib/python2.7/threading.py", line 1080, in run
+
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+
+
+  File "/usr/lib/python2.7/threading.py", line 620, in wait  File "/usr/lib/python2.7/threading.py", line 763, in run  File "/usr/lib/python2.7/threading.py", line 1082, in run
+
+
+  File "/usr/lib/python2.7/threading.py", line 363, in wait  File "/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py", line 241, in _publishing_thread  File "/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py", line 73, in _on_timer
+
+
+<type 'exceptions.ValueError'>: list.remove(x): x not in list  File "/usr/lib/python2.7/threading.py", line 215, in __exit__  File "/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py", line 179, in _on_disconnect_timeout
+
+
+  File "/usr/lib/python2.7/threading.py", linep_inner
+
+
+Traceback (most recent call last):Traceback (most recent call last):  File "/usr/lib/python2.7/threading.py", line 1080, in run
+
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+
+
+  File "/usr/lib/python2.7/threading.py", line 620, in wait  File "/usr/lib/python2.7/threading.py", line 763, in run  File "/usr/lib/python2.7/threading.py", line 1082, in run
+
+
+  File "/usr/lib/python2.7/threading.py", line 363, in wait  File "/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py", line 241, in _publishing_thread  File "/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py", line 73, in _on_timer
+
+
+<type 'exceptions.ValueError'>: list.remove(x): x not in list  File "/usr/lib/python2.7/threading.py", line 215, in __exit__  File "/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py", line 179, in _on_disconnect_timeout
+
+
+  File "/usr/lib/python2.7/threading.py", line 202, in release  File "/usr/lib/python2.7/threading.py", line 167, in acquire
+
+<type 'exceptions.TypeError'>: 'NoneType' object is not callable<type 'exceptions.TypeError'>: 'NoneType' object is not callable
+
+[robot_state_publisher-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+]0;donatello@donatello-HP-210-G1-PC: ~donatello@donatello-HP-210-G1-PC:~$ roslaunch turtlebot_bringup minimal.launch
+... logging to /home/donatello/.ros/log/ae66bee0-c4f7-11e7-91de-8019347b197a/roslaunch-donatello-HP-210-G1-PC-13036.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/opt/ros/indigo/share/turtlebot_bringup/launch/minimal.launch
+[1mstarted roslaunch server http://192.168.0.102:45711/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /app_manager/auto_rapp_installation: False
+ * /app_manager/auto_start_rapp: 
+ * /app_manager/capability_server_name: capability_server
+ * /app_manager/local_remote_controllers_only: False
+ * /app_manager/preferred: [{'rocon_apps/chi...
+ * /app_manager/rapp_package_blacklist: []
+ * /app_manager/rapp_package_whitelist: ['rocon_apps', 't...
+ * /app_manager/robot_icon: turtlebot_bringup...
+ * /app_manager/robot_name: turtlebot
+ * /app_manager/robot_type: turtlebot
+ * /app_manager/screen: True
+ * /app_manager/simulation: False
+ * /app_manager/use_gateway_uuids: False
+ * /bumper2pointcloud/pointcloud_radius: 0.24
+ * /capability_server/blacklist: ['std_capabilitie...
+ * /capability_server/defaults/kobuki_capabilities/KobukiBringup: kobuki_capabiliti...
+ * /capability_server/defaults/kobuki_capabilities/KobukiBumper: kobuki_capabiliti...
+ * /capability_server/defaults/kobuki_capabilities/KobukiCliffDetection: kobuki_capabiliti...
+ * /capability_server/defaults/kobuki_capabilities/KobukiLED1: kobuki_capabiliti...
+ * /capability_server/defaults/kobuki_capabilities/KobukiLED2: kobuki_capabiliti...
+ * /capability_server/defaults/kobuki_capabilities/KobukiLED: kobuki_capabiliti...
+ * /capability_server/defaults/kobuki_capabilities/KobukiWheelDropDetection: kobuki_capabiliti...
+ * /capability_server/defaults/std_capabilities/Diagnostics: turtlebot_capabil...
+ * /capability_server/defaults/std_capabilities/DifferentialMobileBase: kobuki_capabiliti...
+ * /capability_server/defaults/std_capabilities/LaserSensor: turtlebot_capabil...
+ * /capability_server/defaults/std_capabilities/RGBDSensor: turtlebot_capabil...
+ * /capability_server/defaults/std_capabilities/RobotStatePublisher: turtlebot_capabil...
+ * /capability_server/defaults/turtlebot_capabilities/TurtleBotBringup: turtlebot_capabil...
+ * /capability_server/nodelet_manager_name: capability_server...
+ * /capability_server/package_whitelist: ['kobuki_capabili...
+ * /cmd_vel_mux/yaml_cfg_file: /opt/ros/indigo/s...
+ * /description: Kick-ass ROS turtle
+ * /diagnostic_aggregator/analyzers/input_ports/contains: ['Digitalrs/sensors/contains: ['Cliff Sensor', ...
+ * /diagnostic_aggregator/analyzers/sensors/path: Sensors
+ * /diagnostic_aggregator/analyzers/sensors/remove_prefix: mobile_base_nodel...
+ * /diagnostic_aggregator/analyzers/sensors/timeout: 5.0
+ * /diagnostic_aggregator/analyzers/sensors/type: diagnostic_aggreg...
+ * /diagnostic_aggregator/base_path: 
+ * /diagnostic_aggregator/pub_rate: 1.0
+ * /icon: turtlebot_bringup...
+ * /interactions/interactions: ['turtlebot_bring...
+ * /interactions/pairing: True
+ * /interactions/rosbridge_address: localhost
+ * /interactions/rosbridge_port: 9090
+ * /interactions/webserver_address: webapp.robotconce...
+ * /mobile_base/base_frame: base_footprint
+ * /mobile_base/battery_capacity: 16.5
+ * /mobile_base/battery_dangerous: 13.2
+ * /mobile_base/battery_low: 14.0
+ * /mobile_base/cmd_vel_timeout: 0.6
+ * /mobile_base/device_port: /dev/kobuki
+ * /mobile_base/odom_frame: odom
+ * /mobile_base/publish_tf: True
+ * /mobile_base/use_imu_heading: True
+ * /mobile_base/wheel_left_joint_name: wheel_left_joint
+ * /mobile_base/wheel_right_joint_name: wheel_right_joint
+ * /name: turtlebot
+ * /robot/name: turtlebot
+ * /robot/type: turtlebot
+ * /robot_description: <?xml version="1....
+ * /robot_state_publisher/publish_frequency: 5.0
+ * /rosdistro: indigo
+ * /rosversion: 1.11.16
+ * /turtlebot_laptop_battery/acpi_path: /sys/class/power_...
+ * /use_sim_time: False
+ * /zeroconf/zeroconf/services: [{'domain': 'loca...
+
+NODES
+  /zeroconf/
+    zeroconf (zeroconf_avahi/zeroconf)
+  /
+    app_manager (rocon_app_manager/rapp_manager.py)
+    bumper2pointcloud (nodelet/nodelet)
+    capability_server (capabilities/capability_server)
+    cmd_vel_mux (nodelet/nodelet)
+    diagnostic_aggregator (diagnostic_aggregator/aggregator_node)
+    interactions (rocon_interactions/interactions_manager.py)
+    master (rocon_master_info/master.py)
+    mobile_base (nodelet/nodelet)
+    mobile_base_nodelet_manager (nodelet/nodelet)
+    robot_state_publisher (robot_state_publisher/robot_state_publisher)
+    turtlebot_laptop_battery (laptop_battery_monitor/laptop_battery.py)
+
+auto-starting new master
+[1mprocess[master]: started with pid [13051][0m
+[1mROS_MASTER_URI=http://192.168.0.102:11311[0m
+]2;/opt/ros/indigo/share/turtlebot_bringup/launch/minimal.launch http://192.168.0.102:11311
+[1msetting /run_id to ae66bee0-c4f7-11e7-91de-8019347b197a[0m
+[1mprocess[rosout-1]: started with pid [13064][0m
+started core service [/rosout]
+[1mprocess[robot_state_publisher-2]: started with pid [13082][0m
+[1mprocess[diagnostic_aggregator-3]: started with pid [13083][0m
+[1mprocess[mobile_base_nodelet_manager-4]: started with pid [13084][0m
+[1mprocess[mobile_base-5]: started with pid [13085][0m
+[1mprocess[cmd_vel_mux-6]: started with pid [13097][0m
+[1mprocess[bumper2pointcloud-7]: started with pid [13107][0m
+[1mprocess[turtlebot_laptop_battery-8]: started with pid [13119][0m
+[1mprocess[capability_server-9]: started with pid [13124][0m
+[1mprocess[app_manager-10]: started with pid [13127][0m
+[1mprocess[master-11]: started with pid [13134][0m
+[1mprocess[interactions-12]: started with pid [13139][0m
+[1mprocess[zeroconf/zeroconf-13]: started with pid [13156][0m
+[33m[WARN] [WallTime: 1510195374.332546] Battery : unable to check laptop battery info [/sys/class/power_supply/BAT0/charge_full_design || /sys/class/power_supply/BAT0/energy_full_design does not exist]
+[0m[0m[ INFO] [1510195374.848416739]: Zeroconf: service successfully established [turtlebot][_ros-master._tcp][11311][0m
+[1m[turtlebot_laptop_battery-8] process has finished cleanly
+log file: /home/donatello/.ros/log/ae66bee0-c4f7-11e7-91de-8019347b197a/turtlebot_laptop_battery-8*.log[0m
+/opt/ros/indigo/lib/python2.7/dist-packages/bondpy/bondpy.py:114: SyntaxWarning: The publisher should be created with an explicit keyword argument 'queue_size'. Please see http://wiki.ros.org/rospy/Overview/Publishers%20and%20Subscribers for more information.
+  self.pub = rospy.Publisher(self.topic, Status)
+/opt/ros/ind
